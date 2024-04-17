@@ -35,3 +35,5 @@ Dedicated to projects involving textual data, this section includes:
 - Hands-on PyTorch Application: All codes are implemented using PyTorch to showcase its utility in solving real-world problems.
 - End-to-End Projects: Each project is documented thoroughly, covering all steps from data handling to model deployment.
 - Original Work: All projects are personally developed and are indicative of my skills and understanding in the field of data science and machine learning.
+
+#### Feel free to explore each project and utilize the code as a learning tool or as a base for your own projects.
